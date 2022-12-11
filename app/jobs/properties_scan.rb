@@ -1,0 +1,3 @@
+class PropertiesSourceScanJob < ApplicationJob
+
+end
