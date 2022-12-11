@@ -134,6 +134,7 @@ GEM
       activesupport (>= 5.0.0)
     jsbundling-rails (1.0.3)
       railties (>= 6.0.0)
+    json (2.6.3)
     loofah (2.19.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
@@ -290,6 +291,7 @@ DEPENDENCIES
   font-awesome-sass (~> 6.1)
   jbuilder
   jsbundling-rails
+  json
   open-uri
   pg (~> 1.1)
   puma (~> 5.0)

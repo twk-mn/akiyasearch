@@ -53,6 +53,7 @@ gem "autoprefixer-rails"
 gem "cloudinary"
 gem "devise"
 gem "font-awesome-sass", "~> 6.1"
+gem "json"
 gem 'open-uri'
 gem "simple_form", github: "heartcombo/simple_form"
 
