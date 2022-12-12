@@ -1,0 +1,2 @@
+class PropertySource < ApplicationRecord
+end
