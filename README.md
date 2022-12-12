@@ -1,1 +1,8 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+# AkiyaSearch
+> Building a site that scrapes and lists Japanese Akiyas
+
+Just got started, so not much to say...
+
+## Contact
+Created by [twk-mn](https://github.com/twk-mn) - feel free to contact me!
+
