@@ -11,7 +11,8 @@ class PropertyScanService
 
   def scan_source
     # Scan the property
-    url = url
     content_serialized = URI.open(url).read
     content = JSON.parse(content_serialized)
+    return content
+  end
 end
